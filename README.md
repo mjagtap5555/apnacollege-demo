@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git firs repo.
 <br>
-Author - Shraddha Jagtap
+Author - Shraddha Manohar Jagtap
